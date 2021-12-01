@@ -1,0 +1,10 @@
+server:
+  port: 8082
+datasource:
+  driverName: mysql
+  host: 192.168.10.231
+  port: 3306
+  database: gin_vue
+  username: root
+  password: 3K7HozUxGp
+  charset: utf8
